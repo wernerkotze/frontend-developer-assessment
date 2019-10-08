@@ -33,4 +33,4 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### This project is intended to assess frontend developers using vue.js and jsonplaceholder.
+This project is intended to assess frontend developers using vue.js and jsonplaceholder.
